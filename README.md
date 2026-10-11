@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Math
