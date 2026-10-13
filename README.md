@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0050-powx-n) |
 | [0168-excel-sheet-column-title](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0168-excel-sheet-column-title) |
 | [0224-basic-calculator](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0231-power-of-two) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0010-regular-expression-matching) |
+| [0050-powx-n](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0241-different-ways-to-add-parentheses) |
