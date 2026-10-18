@@ -418,22 +418,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0101-symmetric-tree) |
 | [1096-brace-expansion-ii](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0101-symmetric-tree) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0101-symmetric-tree) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0101-symmetric-tree) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 ## Queue
 |  |
