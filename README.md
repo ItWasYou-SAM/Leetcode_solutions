@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0704-binary-search) |
 | [0789-escape-the-ghosts](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0789-escape-the-ghosts) |
 | [0875-koko-eating-bananas](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0875-koko-eating-bananas) |
+| [0980-unique-paths-iii](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0980-unique-paths-iii) |
 | [1140-stone-game-ii](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1140-stone-game-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0051-n-queens) |
+| [0980-unique-paths-iii](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0980-unique-paths-iii) |
 | [1096-brace-expansion-ii](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0231-power-of-two) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0980-unique-paths-iii](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0980-unique-paths-iii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
+| [0980-unique-paths-iii](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0980-unique-paths-iii) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search
@@ -472,4 +476,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
