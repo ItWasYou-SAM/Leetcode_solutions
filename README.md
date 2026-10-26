@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0037-sudoku-solver](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0053-maximum-subarray) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0051-n-queens) |
 | [0980-unique-paths-iii](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0980-unique-paths-iii) |
