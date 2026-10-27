@@ -1,19 +1,24 @@
 class Solution {
-    private void getcomb(int[] nums, int i, int t, List<Integer>cur, List<List<Integer>> res){
-        if(t == 0){
-            res.add(new ArrayList<Integer>(cur));
+    public List<List<Integer>> combinationSum(int[] candidates, int target) {
+        List<List<Integer>> res = new ArrayList<>();
+
+        makeCombination(candidates, target, 0, new ArrayList<>(), 0, res);
+        return res;        
+    }
+
+    private void makeCombination(int[] candidates, int target, int idx, List<Integer> comb, int total, List<List<Integer>> res) {
+        if (total == target) {
+            res.add(new ArrayList<>(comb));
             return;
         }
-        if(t < 0 || i >= nums.length) return;
-        for(int k = i ; k < nums.length; k++){
-            cur.add(nums[k]);
-            getcomb(nums, k, t-nums[k], cur, res);
-            cur.remove(cur.size() - 1);
+
+        if (total > target || idx >= candidates.length) {
+            return;
         }
-    }
-    public List<List<Integer>> combinationSum(int[] candidates, int target) {
-        List<List<Integer>> res = new ArrayList<List<Integer>>();
-        getcomb(candidates, 0, target, new ArrayList<>(), res);
-        return res;
-    }
+
+        comb.add(candidates[idx]);
+        makeCombination(candidates, target, idx, comb, total + candidates[idx], res);
+        comb.remove(comb.size() - 1);
+        makeCombination(candidates, target, idx + 1, comb, total, res);
+    }    
 }
