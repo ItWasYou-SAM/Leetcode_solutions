@@ -396,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0151-reverse-words-in-a-string](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0876-middle-of-the-linked-list](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0876-middle-of-the-linked-list](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Tournament Sort
 |  |
 | ------- |
