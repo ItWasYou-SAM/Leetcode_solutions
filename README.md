@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0875-koko-eating-bananas](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0875-koko-eating-bananas) |
 | [0980-unique-paths-iii](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0980-unique-paths-iii) |
 | [1140-stone-game-ii](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1140-stone-game-ii) |
+| [1267-count-servers-that-communicate](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1267-count-servers-that-communicate) |
 | [1331-rank-transform-of-an-array](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0169-majority-element](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1267-count-servers-that-communicate](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1267-count-servers-that-communicate) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0980-unique-paths-iii](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0980-unique-paths-iii) |
+| [1267-count-servers-that-communicate](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1267-count-servers-that-communicate) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3665-twisted-mirror-path-count](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3665-twisted-mirror-path-count) |
@@ -455,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0101-symmetric-tree](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [1096-brace-expansion-ii](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1096-brace-expansion-ii) |
+| [1267-count-servers-that-communicate](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1267-count-servers-that-communicate) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Tree
 |  |
@@ -469,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0100-same-tree](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0101-symmetric-tree) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1028-recover-a-tree-from-preorder-traversal) |
+| [1267-count-servers-that-communicate](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1267-count-servers-that-communicate) |
 ## Binary Tree
 |  |
 | ------- |
@@ -515,4 +520,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0141-linked-list-cycle) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
