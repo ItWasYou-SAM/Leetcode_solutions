@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2778-sum-of-squares-of-special-elements](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
