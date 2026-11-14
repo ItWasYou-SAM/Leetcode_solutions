@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3364-minimum-positive-sum-subarray](https://github.com/ItWasYou-SAM/Leetcode_solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3364-minimum-positive-sum-subarray](https://github.com/ItWasYou-SAM/Leetcode_solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3903-smallest-stable-index-i](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3904-smallest-stable-index-ii) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1652-defuse-the-bomb](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1652-defuse-the-bomb) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3364-minimum-positive-sum-subarray](https://github.com/ItWasYou-SAM/Leetcode_solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Dynamic Programming
 |  |
