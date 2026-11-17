@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ItWasYou-SAM/Leetcode_solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/2409-count-days-spent-together) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/ItWasYou-SAM/Leetcode_solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0678-valid-parenthesis-string](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1140-stone-game-ii) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/ItWasYou-SAM/Leetcode_solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3665-twisted-mirror-path-count](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3693-climbing-stairs-ii) |
 ## Backtracking
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0876-middle-of-the-linked-list](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/ItWasYou-SAM/Leetcode_solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Bracket Sequences
 |  |
 | ------- |
