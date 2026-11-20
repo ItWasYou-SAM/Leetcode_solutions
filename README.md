@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0451-sort-characters-by-frequency](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0709-to-lower-case) |
+| [0844-backspace-string-compare](https://github.com/ItWasYou-SAM/Leetcode_solutions/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0940-distinct-subsequences-ii) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0032-longest-valid-parentheses](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0678-valid-parenthesis-string](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
+| [0844-backspace-string-compare](https://github.com/ItWasYou-SAM/Leetcode_solutions/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0016-3sum-closest](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0141-linked-list-cycle](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0844-backspace-string-compare](https://github.com/ItWasYou-SAM/Leetcode_solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -518,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/ItWasYou-SAM/Leetcode_solutions/tree/master/0844-backspace-string-compare) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ItWasYou-SAM/Leetcode_solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3174-clear-digits](https://github.com/ItWasYou-SAM/Leetcode_solutions/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
