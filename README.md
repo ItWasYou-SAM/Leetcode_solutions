@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2409-count-days-spent-together](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3360-stone-removal-game](https://github.com/ItWasYou-SAM/Leetcode_solutions/tree/master/3360-stone-removal-game) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -524,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0844-backspace-string-compare](https://github.com/ItWasYou-SAM/Leetcode_solutions/tree/master/0844-backspace-string-compare) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ItWasYou-SAM/Leetcode_solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3174-clear-digits](https://github.com/ItWasYou-SAM/Leetcode_solutions/tree/master/3174-clear-digits) |
+| [3360-stone-removal-game](https://github.com/ItWasYou-SAM/Leetcode_solutions/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Geometry
