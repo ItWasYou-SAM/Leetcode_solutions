@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0704-binary-search](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0704-binary-search) |
 | [0789-escape-the-ghosts](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0789-escape-the-ghosts) |
 | [0875-koko-eating-bananas](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0875-koko-eating-bananas) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/ItWasYou-SAM/Leetcode_solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0980-unique-paths-iii](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0980-unique-paths-iii) |
 | [1140-stone-game-ii](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1140-stone-game-ii) |
 | [1267-count-servers-that-communicate](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1267-count-servers-that-communicate) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/ItWasYou-SAM/Leetcode_solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1096-brace-expansion-ii](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0239-sliding-window-maximum) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/ItWasYou-SAM/Leetcode_solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [2073-time-needed-to-buy-tickets](https://github.com/ItWasYou-SAM/Leetcode_solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Queue
@@ -525,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/ItWasYou-SAM/Leetcode_solutions/tree/master/0844-backspace-string-compare) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/ItWasYou-SAM/Leetcode_solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [2073-time-needed-to-buy-tickets](https://github.com/ItWasYou-SAM/Leetcode_solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ItWasYou-SAM/Leetcode_solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3174-clear-digits](https://github.com/ItWasYou-SAM/Leetcode_solutions/tree/master/3174-clear-digits) |
