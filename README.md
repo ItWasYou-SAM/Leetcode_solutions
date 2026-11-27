@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1838-frequency-of-the-most-frequent-element](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1882-process-tasks-using-servers](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1882-process-tasks-using-servers) |
+| [2073-time-needed-to-buy-tickets](https://github.com/ItWasYou-SAM/Leetcode_solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0239-sliding-window-maximum) |
+| [2073-time-needed-to-buy-tickets](https://github.com/ItWasYou-SAM/Leetcode_solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Queue
 |  |
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/ItWasYou-SAM/Leetcode_solutions/tree/master/0844-backspace-string-compare) |
+| [2073-time-needed-to-buy-tickets](https://github.com/ItWasYou-SAM/Leetcode_solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ItWasYou-SAM/Leetcode_solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3174-clear-digits](https://github.com/ItWasYou-SAM/Leetcode_solutions/tree/master/3174-clear-digits) |
 | [3360-stone-removal-game](https://github.com/ItWasYou-SAM/Leetcode_solutions/tree/master/3360-stone-removal-game) |
